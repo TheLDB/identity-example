@@ -1,0 +1,22 @@
+{
+  "name": "identityexample",
+  "version": "0.0.1",
+  "description": "A sample program for the Alles Identity SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLDB/identity-example.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Landon Boles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheLDB/identity-example/issues"
+  },
+  "homepage": "https://github.com/TheLDB/identity-example#readme"
+}
